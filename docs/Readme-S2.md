@@ -26,4 +26,4 @@ Ahora después de guardar cada cambio en tu código podrás ver cómo el script 
 
 Puedes revisar su uso en la [documentación oficial.](https://www.npmjs.com/package/nodemon)
 
-![Nodemon Instalado y Listo](./img/s2nodemon.png)
+- ![Nodemon Instalado y Listo](./img/s2nodemon.png)
