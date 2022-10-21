@@ -25,3 +25,5 @@ Después de instalarlo podremos ejecutar nuestro script con el comando
 Ahora después de guardar cada cambio en tu código podrás ver cómo el script vuelve a ejecutarse automáticamente.
 
 Puedes revisar su uso en la [documentación oficial.](https://www.npmjs.com/package/nodemon)
+
+![Nodemon Instalado y Listo](./img/s2nodemon.png)
